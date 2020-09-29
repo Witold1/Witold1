@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### [My CV project](firebase-dinamic-link)
+### [My CV project](https://witold.page.link/CV)
 
 ### Visualization and business presentations: 
-[Presentation with my visualization and infographics drafts, business slides examples](firebase-dinamic-link)
+[Presentation with my visualization and infographics drafts, business slides examples](https://witold.page.link/Viz)
 
 ### Hackathons, competitions, and contests:
 | Project | Contribution |
