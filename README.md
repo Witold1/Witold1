@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 | ------- | -------------|
 | [Mixed dataset (texts and geo-locations) analysis example](https://github.com/Witold1/quilt_test_task) | visualized trends in e-search time series, showed relationship between small texts and their geo-locations to estimate social stress; developed some custom visualizations |
 | [CAV and AV testing operations analysis example](https://github.com/Witold1/CAV_data_case) | visualized trends in testing of autonomous vehicles, utilization of inventory and locations; prepared an executive .pptx presentation |
-| Subway usage dataset analysis example (stealth) | visualized trends in usage of subway in a big city, data pipeline and time series analysis mostly |
+| [Subway usage dataset analysis example](https://github.com/Witold1/mta_data_research) | visualized trends in usage of subway in a big city, data pipeline and time series analysis mostly |
 
 ### Hackathons, competitions, and contests (pre-2021):
 | Project | Contribution |
