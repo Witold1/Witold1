@@ -23,19 +23,19 @@ Here are some ideas to get you started:
 ### Projects (2022):
 | Project | Contribution |
 | ------- | -------------|
-| [Mixed dataset (texts and geo-locations) analysis example](https://github.com/Witold1/quilt_test_task) | visualized trends in e-search time series, showed relationship between small texts and their geo-locations to estimate social stress; developed some custom visualizations |
-| [CAV and AV testing operations analysis example](https://github.com/Witold1/CAV_data_case) | visualized trends in testing of autonomous vehicles, utilization of inventory and locations; prepared an executive .pptx presentation |
-| [Subway usage dataset analysis example](https://github.com/Witold1/mta_data_research) | visualized trends in usage of subway in a big city, data pipeline and time series analysis mostly |
+| 📝 [Mixed dataset (texts and geo-locations) analysis example](https://github.com/Witold1/quilt_test_task) | visualized trends in web search time series, showed geo-spatial distributions of small-texts to estimate social stress; prepared some custom visualizations |
+| 🚙 [CAV and AV testing operations analysis example](https://github.com/Witold1/CAV_data_case) | visualized trends in testing of autonomous vehicles, inc. utilization of inventory and testing locations; prepared an executive .pptx presentation |
+| 🚇 [Subway usage dataset analysis example](https://github.com/Witold1/mta_data_research) | visualized trends in usage of subway in a big city, wrote data pipeline and time series analysis |
 
 ### Hackathons, competitions, and contests (pre-2021):
 | Project | Contribution |
 | ------- | -------------|
-| ['Detroit Crime Space'](https://github.com/Witold1/detroit_crime_space) | implemented the data analytical pipeline for monitoring of criminal offenses in a big ol' city  |
-| [Kaggle/Generative Dog Images GAN competition](https://www.kaggle.com/witold1/quick-data-explanation-and-eda) | developed data exploratory notebook that was highly-rated by community (1500+ views, bronze medal, backboned for future analysis) |
-| [Kaggle-like/Data Science track, Changellange CUP-IT 2019 case competition](https://www.kaggle.com/mihaon/cup-it-19-sample-baseline) | built a baseline of text classification models on imbalanced data for one of the largest European banking groups |
-| [European BigTech company test task](https://github.com/Witold1/yandex_intern_hypercube_test) | implemented time series data gathering from web, made EDA, and wrote comments on business processes' logic |
+| ['Detroit Crime Space'](https://github.com/Witold1/detroit_crime_space) | implemented the data-analytical pipeline for monitoring of criminal offenses in a big city  |
+| 🐶 [Kaggle/Generative Dog Images GAN competition](https://www.kaggle.com/witold1/quick-data-explanation-and-eda) | developed data exploratory notebook that was highly-rated by community (1500+ views, bronze medal, backboned for future analysis) |
+| [Kaggle-like/Data Science track, Changellange CUP-IT 2019 case competition](https://www.kaggle.com/mihaon/cup-it-19-sample-baseline) | built a baseline for text classification on imbalanced data for one of the largest European banking groups |
+| [European BigTech company test task](https://github.com/Witold1/yandex_intern_hypercube_test) | wrote data gathering from web, prepared EDA of time series dataset, and commented a logic of business processes |
 | [Patent Analysis minimalistic pipeline](https://github.com/Witold1/patent_analysis) | implemented the examples of processing routine for patents analysis methodology using python and API-based NLP services for NER task |
 
 ### Just for fun:
-* [Analysis of people web messenger chats data](https://github.com/Witold1/messenger_chat_descriptive): developed a descriptive system for collected and anonymized data from real interpersonal dialogs
-* [private now works] Custom web parses, crawlers: developed data gathering scripts, robots, and systems, - of web sites (marketplaces, classifieds platforms, online libraries, publishers, news) for on-demand projects
+* [Analysis of people web messenger chats data](https://github.com/Witold1/messenger_chat_descriptive): wrote a descriptive system for anonymized data from real dialogues between people
+* [private now, works] Custom web parses and crawlers: data gathering scripts, robots, and systems, - of web sites (marketplaces, classifieds platforms, online libraries, publishers, news) for on-demand projects
