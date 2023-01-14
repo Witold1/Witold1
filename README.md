@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ### Projects (2022):
 | Project | Contribution |
 | ------- | -------------|
+| 🛰️ [.py Practice with 3D visualization and terrain shading of LiDAR datasets](https://github.com/Witold1/urban_lidar_3d_practice) | checked python ecosystem for processing of geo-featured point clouds, from raw clouds to raster grids to hillshading & 3DVIZ; wrote custom gathering and processing pipeline |
 | 🗺️ [Geospatial visualizations of parks and parkings across downtowns](https://github.com/Witold1/downtowns_parks_parkings) | researched & visualised locations, proximities, and shares of parks and parkings across multiple city centers; wrote custom gathering and processing pipeline |
 | 📝 [Mixed dataset (texts and geo-locations) analysis example](https://github.com/Witold1/quilt_test_task) | visualized trends in time series of web search, showed geo-spatial distributions of small-texts to estimate social stress; prepared some custom visualizations |
 | 🚙 [CAV and AV testing operations analysis example](https://github.com/Witold1/CAV_data_case) | visualized trends in testing of autonomous vehicles, inc. utilization of inventory and testing locations; prepared an executive .pptx presentation |
