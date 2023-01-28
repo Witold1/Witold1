@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vital-yevtushenko/"><img src="https://img.shields.io/badge/-Witold1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vital-yevtushenko/"></a>
-  <a href="https://github.com//users/follow?target=Witold1"><img src="https://img.shields.io/github/followers/Witold1?label=follow&style=social"></a>
+  <a href="https://github.com/Witold1"><img src="https://img.shields.io/github/followers/Witold1?label=follow&style=social"></a>
   <a href="https://witold.page.link/Viz"><img src="https://img.shields.io/badge/-DataViz Portfolio-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://witold.page.link/Viz"></a>
   <a href="https://witold.page.link/CV"><img src="https://img.shields.io/badge/-CV-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://witold.page.link/CV"></a>
 </p>
