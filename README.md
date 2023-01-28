@@ -1,24 +1,17 @@
 ## Hi there 👋 Here's a few of my projects you can take a look at:
 
-<!--
-**Witold1/Witold1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/vital-yevtushenko/"><img src="https://img.shields.io/badge/-Witold1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vital-yevtushenko/"></a>
+  <a href="https://github.com//users/follow?target=Witold1"><img src="https://img.shields.io/github/followers/Witold1?label=follow&style=social"></a>
+  <a href="https://witold.page.link/Viz"><img src="https://img.shields.io/badge/-DataViz Portfolio-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://witold.page.link/Viz"></a>
+  <a href="https://witold.page.link/CV"><img src="https://img.shields.io/badge/-CV-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://witold.page.link/CV"></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### [My CV project](https://witold.page.link/CV) <sub>(old)</sub>
-
-### Visualization and business presentations: 
-[Presentation with my visualization and infographics drafts, business slides examples](https://witold.page.link/Viz) <sub>(old)</sub>
+<p align="center">
+  <a href="https://witold.page.link/CV">[Curriculum vitae] </a><sub>(old)</sub>
+  |
+  <a href="https://witold.page.link/Viz">[DataViz & presentations portfolio]</a> <sub>(old)</sub>
+</p>
 
 ### Projects (2022):
 | Project | Contribution |
@@ -40,4 +33,4 @@ Here are some ideas to get you started:
 
 ### Just for fun:
 * [Analysis of people web messenger chats data](https://github.com/Witold1/messenger_chat_descriptive): wrote a descriptive system for anonymized data from real dialogues between people
-* [private now, works] Custom web parses and crawlers: data gathering scripts, robots, and systems, - of web sites (marketplaces, classifieds platforms, online libraries, publishers, news) for on-demand projects
+* 🤖 [private now, works] Custom web parses and crawlers: data gathering scripts, robots, and systems, - of web sites (marketplaces, classifieds platforms, online libraries, publishers, news) for on-demand projects
