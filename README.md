@@ -1,4 +1,8 @@
-## Hi there 👋 Here's a few of my projects you can take a look at:
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Witold1">
+<h1 align="Center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+there!+👋;This+is+Witold1's+GitHub+Profile...;Nice+to+meet+you!&center=true&size=25&width=600" alt="Hello there! This is Witold1's GitHub Profile... Nice to meet you!" />
+  </a>
+</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vital-yevtushenko/"><img src="https://img.shields.io/badge/-Witold1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vital-yevtushenko/"></a>
