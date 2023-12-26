@@ -1,40 +1,71 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Witold1">
 <h1 align="Center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+there!+👋;This+is+Witold1's+GitHub+Profile...;Nice+to+meet+you!&center=true&size=25&width=600" alt="Hello there! This is Witold1's GitHub Profile... Nice to meet you!" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+there!+;This+is+Witold1's+GitHub+Profile...;Nice+to+meet+you!&center=true&size=25&width=600" alt="Hello there! This is Witold1's GitHub Profile... Nice to meet you!" />
+  </a>
 </h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vital-yevtushenko/"><img src="https://img.shields.io/badge/-Witold1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vital-yevtushenko/"></a>
-  <a href="https://github.com/Witold1"><img src="https://img.shields.io/github/followers/Witold1?label=follow&style=social"></a>
-  <a href="https://witold.page.link/Viz"><img src="https://img.shields.io/badge/-DataViz Portfolio-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://witold.page.link/Viz"></a>
-  <a href="https://witold.page.link/CV"><img src="https://img.shields.io/badge/-CV-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://witold.page.link/CV"></a>
-</p>
+<div align=center>
+  <a href="https://www.linkedin.com/in/vital-yevtushenko/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"/>
+  </a>
+  <a href="https://witold1.github.io/">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/>
+  </a>
+  <a href="https://witold1.github.io/">
+    <img src="https://img.shields.io/badge/Website-0077B5?style=flat-square&logo=Google-chrome&logoColor=white" title="Website"/>
+  </a>
+  <a href="https://witold.page.link/CV">
+    <img src="https://img.shields.io/badge/CV-100000?style=flat-square&logo=Google-chrome&logoColor=white" title="CV"/>
+  </a>
+</div>
 
 <p align="center">
-  <a href="https://witold.page.link/CV">[Curriculum vitae] </a><sub>(old)</sub>
-  |
-  <a href="https://witold.page.link/Viz">[DataViz & presentations portfolio]</a> <sub>(old)</sub>
+  <a href="https://witold1.github.io/"><img alt="Geo-Data-Viz Gallery" src="https://img.shields.io/badge/Web-Geo_|_Data Viz_Gallery-000000.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://witold.page.link/CV"></a>
+  <a href="https://witold.page.link/Viz"><img alt="Geo-Data-Viz Gallery" src="https://img.shields.io/badge/Web-DataViz_Portfolio-000000.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://witold.page.link/CV"></a><sub>(old)</sub>
 </p>
 
-### Projects (2022):
-| Project | Contribution |
-| ------- | -------------|
-| 🛰️ [.py Practice with 3D visualization and terrain shading of LiDAR datasets](https://github.com/Witold1/urban_lidar_3d_practice) | checked python ecosystem for processing of geo-featured point clouds, from raw clouds to raster grids to hillshading & 3DVIZ; wrote custom gathering and processing pipeline |
-| 🗺️ [Geospatial visualizations of parks and parkings across downtowns](https://github.com/Witold1/downtowns_parks_parkings) | researched & visualised locations, proximities, and shares of parks and parkings across multiple city centers; wrote custom gathering and processing pipeline |
-| 📝 [Mixed dataset (texts and geo-locations) analysis example](https://github.com/Witold1/quilt_test_task) | visualized trends in time series of web search, showed geo-spatial distributions of small-texts to estimate social stress; prepared some custom visualizations |
-| 🚙 [CAV and AV testing operations analysis example](https://github.com/Witold1/CAV_data_case) | visualized trends in testing of autonomous vehicles, inc. utilization of inventory and testing locations; prepared an executive .pptx presentation |
-| 🚇 [Subway usage dataset analysis example](https://github.com/Witold1/mta_data_research) | visualized trends in usage of subway in a big city, wrote data pipeline and time series analysis |
+## :man_technologist: Brief introduction
+Hello, [Witold1](https://witold1.github.io/) is here! You might recognize me from my involvement in various analytical projects, insightful blog comments, and captivating [DataViz products](https://witold1.github.io/). Below, you'll find a selection of [open projects](#-remarkable-projects) that I believe are worth sharing from my previous experiences.
 
-### Hackathons, competitions, and contests (pre-2021):
-| Project | Contribution |
-| ------- | -------------|
-| ['Detroit Crime Space'](https://github.com/Witold1/detroit_crime_space) | implemented the data-analytical pipeline for monitoring of criminal offenses in a big city  |
-| 🐶 [Kaggle/Generative Dog Images GAN competition](https://www.kaggle.com/witold1/quick-data-explanation-and-eda) | developed data exploratory notebook that was highly-rated by community (1500+ views, bronze medal, backboned for future analysis) |
-| [Kaggle-like/Data Science track, Changellange CUP-IT 2019 case competition](https://www.kaggle.com/mihaon/cup-it-19-sample-baseline) | built a baseline for text classification on imbalanced data for one of the largest European banking groups |
-| [European BigTech company test task](https://github.com/Witold1/yandex_intern_hypercube_test) | wrote data gathering from web, prepared EDA of time series dataset, and commented a logic of business processes |
-| [Patent Analysis minimalistic pipeline](https://github.com/Witold1/patent_analysis) | implemented the examples of processing routine for patents analysis methodology using python and API-based NLP services for NER task |
+If you're interested in collaborating on projects that require joint expertise or need recommendations regarding data sources and data processing, don't hesitate to reach out.
+
+> Currently, I am excelling in Sales, Strategy, Operations, and Business Intelligence practices at a local automotive business across American Midwest, where I optimize sales of niche cars with data-driven strategies and maintain analytical infrastructure. Prior to this, I held a position in Advanced Business Intelligence team at RouteOne, the leading North America Automotive FinTech Platform headquartered in Detroit metro. Prior, I have gained valuable experience in Advanced Analytics and Data Science team while working for prominent R&D Intelligence consulting firm in Europe.
+
+## :hammer_and_wrench: Technologies & Programming Languages
+<div align=left>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="GitLab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="GitLab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash/Shell/PowerShell" alt="Bash/Shell/PowerShell" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="Atom" alt="Atom" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
+</div>
+
+## ⚡ Remarkable projects
+### 📁 Projects (2022 - curt.)
+
+
+  | ✅ Project | 🗄️ Contribution  |
+  |---|---|
+  | 🛰️ [.py 3D Visualization of LiDAR datasets](https://github.com/Witold1/urban_lidar_3d_practice) [2023] | Developed a Python pipeline for processing and visualizing geo-featured point clouds, including converting raw clouds to raster grids and applying hill shading techniques. |
+  | 🗺️ [Geospatial visualizations of parks and parkings](https://github.com/Witold1/downtowns_parks_parkings) [2023] | Researched and visualized the locations, proximities, and shares of parks and parkings in multiple urban downtowns. Developed a custom gathering and processing pipeline for data extraction and processing. |
+  | 📝 [Mixed dataset analysis](https://github.com/Witold1/quilt_test_task) [2022] | Analyzed a mixed dataset containing texts, geo-locations, and trends in web search. Estimated social stress using available features as a proxy. |
+  | 🚙 [CAV and AV testing operations analysis](https://github.com/Witold1/CAV_data_case) [2022] | Visualized trends in the testing of autonomous vehicles, specifically in the utilization of inventory and testing locations. Prepared an executive presentation in PowerPoint format. |
+  | 🚇 [Subway usage dataset analysis](https://github.com/Witold1/mta_data_research) [2022] | Analyzed trends in the usage of a subway system in a large city. Developed a data pipeline and conducted time series analysis. |
+
+### 🏆 Hackathons, competitions, and contests
+
+  | ✅ Project | 🗄️ Contribution  |
+  |---|---|
+  | 🚔 ['Detroit Crime Space'](https://github.com/Witold1/detroit_crime_space) [2020] | Implemented the data-analytical pipeline for monitoring criminal offenses in a big city. |
+  | 🐶 [Kaggle/Generative Dog Images GAN competition](https://www.kaggle.com/witold1/quick-data-explanation-and-eda) [2018] | Developed a data exploratory notebook that received high ratings from the community (1500+ views, bronze medal). |
+  | 🏦 [Kaggle-like/Data Science track, Changellenge CUP-IT 2019 case competition](https://www.kaggle.com/mihaon/cup-it-19-sample-baseline) [2019] | Built a baseline for text classification on imbalanced data for one of the largest European banking groups. |
+  | [European BigTech company test task](https://github.com/Witold1/yandex_intern_hypercube_test) [2018] | Wrote a data gathering script from the web, conducted exploratory data analysis (EDA) on a time series dataset, and provided commentary on the logic of business processes. |
+  | 📜 [Patent Analysis minimalistic pipeline](https://github.com/Witold1/patent_analysis) [2019] | Implemented examples of a processing routine for patent analysis methodology using Python and API-based NLP services for Named Entity Recognition (NER) tasks. |
 
 ### Just for fun:
-* [Analysis of people web messenger chats data](https://github.com/Witold1/messenger_chat_descriptive): wrote a descriptive system for anonymized data from real dialogues between people
-* 🤖 [private now, works] Custom web parses and crawlers: data gathering scripts, robots, and systems, - of web sites (marketplaces, classifieds platforms, online libraries, publishers, news) for on-demand projects
+  * [Analysis of people web messenger chats data](https://github.com/Witold1/messenger_chat_descriptive): A small system for analyzing anonymized data from real dialogues between people. This project involved extracting insights and patterns from the chat data to gain a deeper understanding of human communication dynamics.
+  * 🤖 [Private works] Custom, specifically tailored, & on-demand web parsers and crawlers to boost data-driven decision-making opportunities. Designed and implemented scripts, robots, and automated solutions for extracting, organizing, and visualizing data from various marketplaces, classifieds platforms, and review aggregators.
