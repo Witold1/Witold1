@@ -4,32 +4,28 @@
   </a>
 </h1>
 
-<div align=center>
-  <a href="https://www.linkedin.com/in/vital-yevtushenko/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"/>
-  </a>
-  <a href="https://witold1.github.io/">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/>
-  </a>
-  <a href="https://witold1.github.io/">
-    <img src="https://img.shields.io/badge/Website-0077B5?style=flat-square&logo=Google-chrome&logoColor=white" title="Website"/>
-  </a>
-  <a href="https://witold.page.link/CV">
-    <img src="https://img.shields.io/badge/CV-100000?style=flat-square&logo=Google-chrome&logoColor=white" title="CV"/>
-  </a>
+<div>
+  <p align="center">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vital-yevtushenko/">
+    <img alt="Website & Blog" src="https://img.shields.io/badge/Website_&_Blog-000000?style=for-the-badge&logo=vue.js&logoColor=white&link=https://witold1.github.io/">
+  </p>
+  <p align="center">
+      <img alt="Data-Viz Gallery (old)" src="https://img.shields.io/badge/Web-DataViz_Portfolio-000000.svg?&style=flat-square&logo=github&logoColor=white&link=https://witold.page.link/CV">&nbsp;<sub>(old)</sub>
+      <img alt="Github" src="https://img.shields.io/badge/Web-Github-000000.svg?&style=flat-square&logo=github&logoColor=white&link=https://witold.page.link/CV">&nbsp;<sub>(this, public)</sub>
+  </p>
 </div>
 
-<p align="center">
-  <a href="https://witold1.github.io/"><img alt="Geo-Data-Viz Gallery" src="https://img.shields.io/badge/Web-Geo_|_Data Viz_Gallery-000000.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://witold.page.link/CV"></a>
-  <a href="https://witold.page.link/Viz"><img alt="Geo-Data-Viz Gallery" src="https://img.shields.io/badge/Web-DataViz_Portfolio-000000.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://witold.page.link/CV"></a><sub>(old)</sub>
-</p>
+<div align="center">
+
+  [Brief introduction](#man_technologist-brief-introduction) | [Technologies & Programming Languages](#hammer_and_wrench-technologies--programming-languages) | [Remarkable projects](#-remarkable-projects)
+</div>
 
 ## :man_technologist: Brief introduction
 Hello, [Witold1](https://witold1.github.io/) is here! You might recognize me from my involvement in various analytical projects, insightful blog comments, and captivating [DataViz products](https://witold1.github.io/). Below, you'll find a selection of [open projects](#-remarkable-projects) that I believe are worth sharing from my previous experiences.
 
 If you're interested in collaborating on projects that require joint expertise or need recommendations regarding data sources and data processing, don't hesitate to reach out.
 
-> Currently, I am excelling in Sales, Strategy, Operations, and Business Intelligence practices at a local automotive business across American Midwest, where I optimize sales of niche cars with data-driven strategies and maintain analytical infrastructure. Prior to this, I held a position in Advanced Business Intelligence team at RouteOne, the leading North America Automotive FinTech Platform headquartered in Detroit metro. Prior, I have gained valuable experience in Advanced Analytics and Data Science team while working for prominent R&D Intelligence consulting firm in Europe.
+> Currently, I am excelling in Sales-Strategy-Operations, and Business Intelligence practices at a local automotive company that operates across the Midwestern USA, where I boost sales of niche cars with data-driven strategies as well as contribute to analytical infrastructure. Prior to this role, I held a position in the Business Intelligence and Data Services team at the leading North America automotive FinTech-F&I Platform headquartered in metro Detroit. Prior, I have gained valuable professional experience in the Advanced Analytics and Data Science team of a prominent R&D Intelligence consulting firm in Europe.
 
 ## :hammer_and_wrench: Technologies & Programming Languages
 <div align=left>
@@ -45,7 +41,7 @@ If you're interested in collaborating on projects that require joint expertise o
 </div>
 
 ## ⚡ Remarkable projects
-### 📁 Projects (2022 - curt.)
+### 📁 Some recent projects
 
 
   | ✅ Project | 🗄️ Contribution  |
@@ -56,7 +52,7 @@ If you're interested in collaborating on projects that require joint expertise o
   | 🚙 [CAV and AV testing operations analysis](https://github.com/Witold1/CAV_data_case) [2022] | Visualized trends in the testing of autonomous vehicles, specifically in the utilization of inventory and testing locations. Prepared an executive presentation in PowerPoint format. |
   | 🚇 [Subway usage dataset analysis](https://github.com/Witold1/mta_data_research) [2022] | Analyzed trends in the usage of a subway system in a large city. Developed a data pipeline and conducted time series analysis. |
 
-### 🏆 Hackathons, competitions, and contests
+### 🏆 Some hackathons, competitions, and contests
 
   | ✅ Project | 🗄️ Contribution  |
   |---|---|
@@ -69,3 +65,5 @@ If you're interested in collaborating on projects that require joint expertise o
 ### Just for fun:
   * [Analysis of people web messenger chats data](https://github.com/Witold1/messenger_chat_descriptive): A small system for analyzing anonymized data from real dialogues between people. This project involved extracting insights and patterns from the chat data to gain a deeper understanding of human communication dynamics.
   * 🤖 [Private works] Custom, specifically tailored, & on-demand web parsers and crawlers to boost data-driven decision-making opportunities. Designed and implemented scripts, robots, and automated solutions for extracting, organizing, and visualizing data from various marketplaces, classifieds platforms, and review aggregators.
+
+<sub>(text curated with LLMs)</sub>
