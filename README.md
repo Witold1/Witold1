@@ -1,17 +1,28 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Witold1">
-<h1 align="Center">
+<h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+there!+;This+is+Witold1's+GitHub+Profile...;Nice+to+meet+you!&center=true&size=25&width=600" alt="Hello there! This is Witold1's GitHub Profile... Nice to meet you!" />
   </a>
 </h1>
 
 <div>
   <p align="center">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vital-yevtushenko/">
-    <img alt="Website & Blog" src="https://img.shields.io/badge/Website_&_Blog-000000?style=for-the-badge&logo=vue.js&logoColor=white&link=https://witold1.github.io/">
+    <a href="https://www.linkedin.com/in/vital-yevtushenko/">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vital-yevtushenko/">
+    </a>
+    <a href="https://witold1.github.io/">
+      <img alt="Website & Blog" src="https://img.shields.io/badge/Website_&_Blog-000000?style=for-the-badge&logo=vue.js&logoColor=white&link=https://witold1.github.io/">
+    </a>
   </p>
   <p align="center">
-      <img alt="Data-Viz Gallery (old)" src="https://img.shields.io/badge/Web-DataViz_Portfolio-000000.svg?&style=flat-square&logo=github&logoColor=white&link=https://witold.page.link/CV">&nbsp;<sub>(old)</sub>
-      <img alt="Github" src="https://img.shields.io/badge/Web-Github-000000.svg?&style=flat-square&logo=github&logoColor=white&link=https://witold.page.link/CV">&nbsp;<sub>(this, public)</sub>
+    <a href="https://witold.page.link/Viz">
+      <img alt="Data-Viz Gallery (old)" src="https://img.shields.io/badge/Web-DataViz_Portfolio-000000.svg?&style=flat-square&logo=github&logoColor=white&link=https://witold.page.link/Viz">
+    </a>&nbsp;<sub>(old)</sub>
+    <a href="https://github.com/witold1">
+      <img alt="Github" src="https://img.shields.io/badge/Web-Github-000000.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/witold1">
+    </a>&nbsp;<sub>(this, public)</sub>
+    <a href="https://witold.page.link/CV">
+      <img alt="CV" src="https://img.shields.io/badge/Web-Curriculum_vitae-000000.svg?&style=flat-square&logo=github&logoColor=white&link=https://witold.page.link/CV">
+    </a>&nbsp;<sub>(old)</sub>
   </p>
 </div>
 
